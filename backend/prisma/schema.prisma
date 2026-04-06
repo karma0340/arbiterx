@@ -1,0 +1,42 @@
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Event {
+  id            String        @id @default(uuid())
+  externalId    String        @unique
+  sport         String
+  competition   String
+  name          String
+  eventDate     DateTime
+  opportunities Opportunity[]
+  createdAt     DateTime      @default(now())
+}
+
+model Opportunity {
+  id             String   @id @default(uuid())
+  eventId        String?
+  event          Event?   @relation(fields: [eventId], references: [id])
+  eventName      String   // Denormalized for quick access
+  sport          String   @default("Soccer")
+  competition    String   @default("Live")
+  market         String
+  selection      String
+  arbPercentage  Float
+  backBookmaker  String
+  backOdds       Float
+  backLink       String?
+  layExchanger   String
+  layOdds        Float
+  layLiquidity   Float?
+  layLink        String?
+  isLive         Boolean  @default(true)
+  isReal         Boolean  @default(false)
+  source         String?  // 'baywin', 'golbet', 'papa', 'kolay40', 'mock'
+  createdAt      DateTime @default(now())
+}

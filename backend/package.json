@@ -1,0 +1,39 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "scrapers": "node scrapers/manager.js",
+    "scrape:baywin": "node scrapers/baywin.js",
+    "scrape:golbet": "node scrapers/golbet.js",
+    "scrape:kolay40": "node scrapers/kolay40.js",
+    "scrape:papa": "node scrapers/papa.js",
+    "scrape:betfair": "node scrapers/betfair.js",
+    "db:push": "npx prisma db push --accept-data-loss",
+    "db:studio": "npx prisma studio",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@prisma/client": "^7.4.2",
+    "better-sqlite3": "^12.8.0",
+    "concurrently": "^9.2.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "playwright": "^1.58.2",
+    "playwright-extra": "^4.3.6",
+    "prisma": "^7.4.2",
+    "puppeteer": "^24.39.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "socket.io": "^4.8.3"
+  }
+}

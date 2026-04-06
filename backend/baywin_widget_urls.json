@@ -1,0 +1,30 @@
+{
+  "wsConnections": [
+    "wss://ws.api.355baywin.com/ws?pui=&secret=visitorId%3DXhrV4o8PP5%26sessionId%3DxhGd3s7b%26clientKey%3D018c4a78-cf21-730b-b1b3-e081d180cd85%26token%3D1%257C23df761a6fbc1d06%257Cf4qCImAm0RHziY6fvhfvPmzqkeL4XTduRu501Iuoqy6Wn6NB3gwb8WLwxmwTHPPitzTVas7iCJLV8gY0m2%252F5cESetK%252FVhSWOFz%252BxhKC1tKvm6e%252F02FUpAWs9t%252Bos%252FAYXvzZWmw%253D%253D%257Ci0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0%257C%257CABQAERABEhARERAQ%257Cfd691cd2%257C29553067%257C1.6.0%257Ci.5.0%257C%5B1773184028626%2C1773184028626%2C1773184028626%2C1773184029508%2C1773184030630%2C1773183855847%2C1773183856274%2C1773184030729%2C1773184030729%2C1773184030750%2C7%2C1773184028000%2C0%5D&id=d708b462-a3fa-4718-aef5-2921c6b396ad",
+    "wss://ws.api.355baywin.com/ws?pui=&reconnect=&secret=visitorId%3DXhrV4o8PP5%26sessionId%3DxhGd3s7b%26clientKey%3D018c4a78-cf21-730b-b1b3-e081d180cd85%26token%3D1%257C23df761a6fbc1d06%257Cf4qCImAm0RHziY6fvhfvPmzqkeL4XTduRu501Iuoqy6Wn6NB3gwb8WLwxmwTHPPitzTVas7iCJLV9k55nmLyckKZsefnynXUUnz1kLyqqabq9%252Bb520w0FSd96aNCwxsAvTNUyRckmR1R%252F4tg8zb2PQ%253D%253D%257Ci0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0%257C%257CABQAERABEhARERAX%257Cd7bf14ed45a3fd692a9f15e2%257C29553067%257C1.6.0%257Ci.5.0%257C%5B1773184028626%2C1773184028626%2C1773184028626%2C1773184029508%2C1773184030630%2C1773183855847%2C1773183856274%2C1773184030729%2C1773184030729%2C1773184038605%2C7%2C1773184028000%2C0%5D&id=d708b462-a3fa-4718-aef5-2921c6b396ad",
+    "wss://ws.api.355baywin.com/ws?pui=&reconnect=&secret=visitorId%3DXhrV4o8PP5%26sessionId%3DxhGd3s7b%26clientKey%3D018c4a78-cf21-730b-b1b3-e081d180cd85%26token%3D1%257C23df761a6fbc1d06%257Cf4qCImAm0RHziY6fvhfvPmzqkeL4XTduRu501Iuoqy6Wn6NB3gwb8WLwxmwTHPPitzTVas7iCJLV9kJ5nmLyckKZsefnynXUUnz1kLyqqabq9%252Bb520w0FSd96aNCwxsAvTNUyRckmR1R%252F4tg8zb2PQ%253D%253D%257Ci0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0%257C%257CABQAERABEhARERAX%257Cd7bf14ed45a3fd692a9f15e2%257C29553067%257C1.6.0%257Ci.5.0%257C%5B1773184028626%2C1773184028626%2C1773184028626%2C1773184029508%2C1773184030630%2C1773183855847%2C1773183856274%2C1773184030729%2C1773184030729%2C1773184044336%2C6%2C1773184028000%2C0%5D&id=d708b462-a3fa-4718-aef5-2921c6b396ad"
+  ],
+  "iframeUrls": [],
+  "apiRequests": [
+    "https://355baywin.com/tr-tr/live",
+    "https://api.355baywin.com/sportsbook__static/runtime.0af6c65df1fc303afad4.js",
+    "https://api.355baywin.com/sportsbook__static/public-path.d931a5249753432a7b65.js",
+    "https://api.355baywin.com/sportsbook__static/libs.3c3de2b3a3e1b84e21e5.js",
+    "https://api.355baywin.com/sportsbook__static/ref.d98c09344acefadb533c.js",
+    "https://api.355baywin.com/sportsbook__static/translates.ea40ea4d2bca2411eab1.js",
+    "https://api.355baywin.com/sportsbook__static/gql.1b0c3c9f131506fbfc91.js",
+    "https://api.355baywin.com/sportsbook__static/~react-runtime.60a1403ce60700a6e1c9.js",
+    "https://api.355baywin.com/sportsbook__static/~vendors.d5a37b23e522e27a513c.js",
+    "https://api.355baywin.com/sportsbook__static/main.9aff928183d63486ba99.js",
+    "https://api.355baywin.com/sportsbook__static/css/main.e5d77ec97e86dd304240.css?origin=https%3A%2F%2Fapi.355baywin.com",
+    "https://api-baywin-tr--prd--pl-sb.api3kut.com/fileserver_public__api/public/cms/8b06119530e84c50933965dfa1921261__YmF5d2luLWZ1bGwtbG9nby5wbmc=.webp?format=webp&width=300",
+    "https://service.262h98i8k.com/livechat.ashx?siteId=90005289",
+    "https://api.355baywin.com/time",
+    "https://api.355baywin.com/sportsbook__static/Assets/Fonts/216bb109ba071a6bad33.woff2",
+    "https://data2.gosquared.com/pv?cs=UTF-8&cd=24&la=en-US&sw=800&sh=600&dp=1&tp=0&pu=https%3A%2F%2F355baywin.com%2Ftr-tr%2Flive&pt=Baywin%20-%20Baywin%20Giri%C5%9F&ri=0&ru=-&re=0&vi=1&pv=1&lv=0&aip=1&tz=-330&rc=1&cb=0&a=GSN-067615-Q&id=37d5ebb825da64b00736394999967453&tv=6.9.1950",
+    "https://shared.api.355baywin.com/translator__api/rpc/sumstats.translator.find_translates_by_namespaces_batch",
+    "https://analytics.api.355baywin.com/vstrg/v2/018c4a78-cf21-730b-b1b3-e081d180cd85",
+    "https://analytics.api.355baywin.com/analytics/v2/018c4a78-cf21-730b-b1b3-e081d180cd85",
+    "https://analytics.api.355baywin.com/tfp/v1/018c4a78-cf21-730b-b1b3-e081d180cd85"
+  ]
+}

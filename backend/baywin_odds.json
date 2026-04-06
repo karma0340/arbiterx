@@ -1,0 +1,224 @@
+[
+  {
+    "id": "baywin-1",
+    "sport": "Soccer",
+    "competition": "UEFA Champions League",
+    "event": "Sporting CP vs Bodo Glimt",
+    "odds": [
+      1.4,
+      5.7,
+      6.7
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-2",
+    "sport": "Soccer",
+    "competition": "Türkiye Süper Lig",
+    "event": "Fenerbahçe vs Gaziantep FK",
+    "odds": [
+      1.15,
+      7.5,
+      16
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-3",
+    "sport": "Soccer",
+    "competition": "UAE Arabian Gulf League",
+    "event": "Al Ittihad Kalba vs Sharjah FC",
+    "odds": [
+      1.19,
+      6.2,
+      10
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-4",
+    "sport": "Soccer",
+    "competition": "UAE Arabian Gulf League",
+    "event": "Al Wahda FC vs Al Ain FC",
+    "odds": [
+      3.5,
+      3.2,
+      1.95
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-5",
+    "sport": "Soccer",
+    "competition": "Mexico Liga TDP",
+    "event": "Heroes Zaci 2 vs Azucareros de Tezonapa",
+    "odds": [
+      1.37,
+      3.5,
+      7.6
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-6",
+    "sport": "Soccer",
+    "competition": "Mali Ligue 1",
+    "event": "Onze Createurs vs AS Korofina",
+    "odds": [
+      11,
+      3.8,
+      1.3
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-7",
+    "sport": "Soccer",
+    "competition": "Botswana Premier League",
+    "event": "Mochudi Centre Chiefs vs Matebele FC",
+    "odds": [
+      2,
+      2.45,
+      4.8
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-8",
+    "sport": "Soccer",
+    "competition": "South Africa Premier Soccer League",
+    "event": "Mamelodi Sundowns vs Tshakhuma Tsha Madzivhandila FC",
+    "odds": [
+      1.32,
+      4.1,
+      11
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-9",
+    "sport": "Soccer",
+    "competition": "Colombia Regional League",
+    "event": "Politecnico J.I.C. vs Atletico N II",
+    "odds": [
+      2.95,
+      2.75,
+      2.6
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-10",
+    "sport": "Soccer",
+    "competition": "Slovakia Slovensky Pohar",
+    "event": "1. FC Tatran Presov vs FK Kosice",
+    "odds": [
+      1.56,
+      3.5,
+      7.1
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-11",
+    "sport": "Soccer",
+    "competition": "Mexico U19 Youth League",
+    "event": "Puebla U19 vs Necaxa U19",
+    "odds": [
+      1.62,
+      3.8,
+      4.5
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-12",
+    "sport": "Basketball",
+    "competition": "Czech 1st League",
+    "event": "Basket Jindrichuv Hradec vs USK Prague B",
+    "odds": [
+      1.03,
+      9
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-13",
+    "sport": "Basketball",
+    "competition": "China CBA Development League",
+    "event": "Suzhou Cats vs Shanghai Fives",
+    "odds": [
+      2.95,
+      1.35
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-14",
+    "sport": "Basketball",
+    "competition": "Bulgaria BBL",
+    "event": "Madgreeks vs National Sandanski",
+    "odds": [
+      4.2,
+      1.19
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "id": "baywin-15",
+    "sport": "Soccer",
+    "competition": "Lithuania 1 Lyga",
+    "event": "FK Vilnius BFA vs FA Siauliai B",
+    "odds": [
+      2,
+      2.75,
+      3.8
+    ],
+    "bookmaker": "Baywin",
+    "isLive": true,
+    "link": "https://355baywin.com/tr-tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  }
+]

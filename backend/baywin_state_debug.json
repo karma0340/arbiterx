@@ -1,0 +1,32 @@
+[
+  {
+    "id": "019c53b7-8ca2-739c-bb77-b1719d6ec1a4",
+    "sport": "Basketball",
+    "competition": "Live",
+    "home": null,
+    "away": null,
+    "odds": {},
+    "bookmaker": "Baywin",
+    "isLive": true
+  },
+  {
+    "id": "019976b1-889b-75a3-87f7-b43f56f3309e",
+    "sport": "Basketball",
+    "competition": "Live",
+    "home": null,
+    "away": null,
+    "odds": {},
+    "bookmaker": "Baywin",
+    "isLive": true
+  },
+  {
+    "id": "019caf83-8bd3-7449-abf1-038556ba1840",
+    "sport": "Tennis",
+    "competition": "Live",
+    "home": null,
+    "away": null,
+    "odds": {},
+    "bookmaker": "Baywin",
+    "isLive": true
+  }
+]

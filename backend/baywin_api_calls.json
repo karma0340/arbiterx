@@ -1,0 +1,410 @@
+[
+  {
+    "url": "https://355baywin.com/tr-tr/live",
+    "status": 200,
+    "mimeType": "text/html",
+    "requestId": "F1A74194ACF6DF5D6CF6DB9736577874"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/css/main.e5d77ec97e86dd304240.css?origin=https%3A%2F%2Fapi.355baywin.com",
+    "status": 200,
+    "mimeType": "text/css",
+    "requestId": "28376.11"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/public-path.d931a5249753432a7b65.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.3"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/runtime.0af6c65df1fc303afad4.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.2"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Fonts/216bb109ba071a6bad33.woff2",
+    "status": 200,
+    "mimeType": "font/woff2",
+    "requestId": "28376.31"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/ref.d98c09344acefadb533c.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.5"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/libs.3c3de2b3a3e1b84e21e5.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.4"
+  },
+  {
+    "url": "https://service.262h98i8k.com/livechat.ashx?siteId=90005289",
+    "status": 200,
+    "mimeType": "application/x-javascript",
+    "requestId": "28376.28"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/translates.ea40ea4d2bca2411eab1.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.6"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/gql.1b0c3c9f131506fbfc91.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.7"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/~react-runtime.60a1403ce60700a6e1c9.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.8"
+  },
+  {
+    "url": "https://355baywin.com/manifest.webmanifest",
+    "status": 200,
+    "mimeType": "application/manifest+json",
+    "requestId": "28376.24"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/~vendors.d5a37b23e522e27a513c.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.9"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/main.9aff928183d63486ba99.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.10"
+  },
+  {
+    "url": "https://clientcdn.pushengage.com/v1/sdk-app-data/5d99b8aa-dc8a-437a-b3c6-2ed40ee96ba1?source=sdk&sdkv=3.0.64&swv=3.0.64",
+    "status": 200,
+    "mimeType": "application/json",
+    "requestId": "28376.97"
+  },
+  {
+    "url": "https://analytics.api.355baywin.com/time/v1/558609",
+    "status": 200,
+    "mimeType": "application/json",
+    "requestId": "28376.104"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/5587.7a254442eaaf56ad3b96.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.109"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/7173.784a1034364f78840617.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.110"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/803.19c6fe8c33368ecd0621.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.111"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/5814.8942d9e4f7eeb9f41555.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.112"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/1673.bfbf8d8f289d85e8d972.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.113"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/2795.5f9cb43fa4e9773c08a2.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.115"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/6239.93fdea8d63123c9062d6.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.116"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/3104.08b9209cb0789e67971f.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.114"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/8080.d3db082577b9a94f8ba1.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.117"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/b1201e889a1bfaf9cd02.png",
+    "status": 200,
+    "mimeType": "image/png",
+    "requestId": "28376.141"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/915a9fd500c8ee8a7779.jpeg",
+    "status": 200,
+    "mimeType": "image/jpeg",
+    "requestId": "28376.142"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/e13b24375e0effc75771.webp",
+    "status": 200,
+    "mimeType": "image/webp",
+    "requestId": "28376.143"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/14b36c78380920993f36.webp",
+    "status": 200,
+    "mimeType": "image/webp",
+    "requestId": "28376.144"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Fonts/1fb3463f854380f06286.woff2",
+    "status": 200,
+    "mimeType": "font/woff2",
+    "requestId": "28376.43"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Fonts/c7a42086641992a24fbf.woff2",
+    "status": 200,
+    "mimeType": "font/woff2",
+    "requestId": "28376.34"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/7272.b5848f168690333c79bf.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.119"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/9724.22ae190b4e39b7718648.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.120"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/5994.5d656ddd1810708c5091.js",
+    "status": 200,
+    "mimeType": "application/javascript",
+    "requestId": "28376.121"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/dfa320fa890477cea41e.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.123"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/927d19c7ae5790721411.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.124"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/fb058f149e8b4006e061.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.125"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/5846960960400d0f3e7c.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.126"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/a74762d064e19345b7d6.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.127"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/0231af176befb6ba2aca.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.128"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/8e3825d5124c00c126b5.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.129"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/b38e751c498087a9261d.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.130"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/2f1a9087a778a917e0fb.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.131"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/5fd486c8f5dfeee9d905.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.132"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/265bded9dad44e3e0e7b.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.133"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/d9cfc53e16d8389bfbe8.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.135"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/b59b39e699ca448ab794.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.136"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/a7129b456cf2a775821e.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.134"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/7e0a67f0e5f3cbb5ca82.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.137"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/52527181b3810399eb3c.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.138"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/e65e09843a29eef7a65b.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.139"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/6f64f811dfdb32d3bedb.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.140"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/d964f231ead4606b2bc7.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.145"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Images/f872ac366da85c24accb.svg",
+    "status": 200,
+    "mimeType": "image/svg+xml",
+    "requestId": "28376.146"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/version.txt",
+    "status": 200,
+    "mimeType": "text/plain",
+    "requestId": "28376.122"
+  },
+  {
+    "url": "https://shared.api.355baywin.com/translator__api/rpc/sumstats.translator.find_translates_by_namespaces_batch",
+    "status": 200,
+    "mimeType": "application/json",
+    "requestId": "28376.108"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/Assets/Fonts/d08f929cab66fc19b568.ttf",
+    "status": 200,
+    "mimeType": "text/plain",
+    "requestId": "28376.52"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbookread__api/rpc/sumstats.sportsbookread.query.get_popular_bets",
+    "status": 204,
+    "mimeType": "",
+    "requestId": "AC485F890F4796CAF31C636EAFB8B1D0"
+  },
+  {
+    "url": "https://chat15.262h98i8k.com/visitor.ashx?siteId=90005289",
+    "status": 200,
+    "mimeType": "text/json",
+    "requestId": "28376.156"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbookread__api/rpc/sumstats.sportsbookread.query.get_popular_bets",
+    "status": 403,
+    "mimeType": "text/html",
+    "requestId": "28376.170"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/version.txt?1773180264852",
+    "status": 200,
+    "mimeType": "text/plain",
+    "requestId": "28376.184"
+  },
+  {
+    "url": "https://chat15.262h98i8k.com/visitor.ashx?siteId=90005289",
+    "status": 200,
+    "mimeType": "text/json",
+    "requestId": "28376.185"
+  },
+  {
+    "url": "https://analytics.api.355baywin.com/visit-call/v1?visitorId=tzvGFKpNkC&sessionId=nzrOXQg2&clientKey=01929f97-b8ab-7ab9-9bcb-613847d5163a&token=1%7C5e55dec56d9b437a%7CJhytQSwBjyc9HUxsc3O8fUqmYx1PrIYCLBwtq7bH6SkZz5C9mqLBikiuju8JcP%2F%2FROSIaFSJ8wZeq%2BnARYbjdPjLoYY722%2F8YJBVZU6q4p9BnXdav0fWPTGH%2FYT6zRsv08Ugsg%3D%3D%7Ci0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0%7C%7CABQAERABEhARERAQ%7Cd7bf14ed45a3fd692a9f15e2%7C29553004%7C1.6.0%7Ci.5.0%7C",
+    "status": 200,
+    "mimeType": "application/json",
+    "requestId": "28376.181"
+  },
+  {
+    "url": "https://analytics.api.355baywin.com/visit-call/v1?visitorId=tzvGFKpNkC&sessionId=nzrOXQg2&clientKey=018c4a78-cf21-730b-b1b3-e081d180cd85&token=1%7C5e55dec56d9b437a%7CJhysECEGgSg9HBI%2FIHO8Lxj9Y0YcrdcCfx0moubBtSxLnZvpmqLBikiuju8JcP%2F%2FR%2B6cT3uN93xeq%2BnARYbjdPjLoYY722%2F8YJBVZU6q4p9BnXdav0fWPTGH%2FYT6zRsv08Ugsg%3D%3D%7Ci0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0i0%7C%7CABQAERABEhARERAQ%7Cd7bf14ed45a3fd692a9f15e2%7C29553004%7C1.6.0%7Ci.5.0%7C",
+    "status": 200,
+    "mimeType": "application/json",
+    "requestId": "28376.180"
+  },
+  {
+    "url": "https://chat15.262h98i8k.com/campaign.ashx?siteId=90005289&campaignId=385940f6-dc9f-4c54-bdba-f6b785016a94&lastUpdateTime=00000000B82309CBturkish",
+    "status": 200,
+    "mimeType": "text/json",
+    "requestId": "28376.193"
+  },
+  {
+    "url": "https://chat15.262h98i8k.com/visitor.ashx?siteId=90005289&visitorGuid=26f3cd4b-2892-4404-974b-75bbad08c2b0",
+    "status": 200,
+    "mimeType": "text/json",
+    "requestId": "28376.194"
+  },
+  {
+    "url": "https://web-sdk.pushengage.com/geo-details?sdkv=3.0.64&swv=3.0.64",
+    "status": 200,
+    "mimeType": "application/json",
+    "requestId": "28376.179"
+  },
+  {
+    "url": "https://api.355baywin.com/sportsbook__static/version.txt?1773180274858",
+    "status": 200,
+    "mimeType": "text/plain",
+    "requestId": "28376.204"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "len": 1911,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198929],\"sports\":{\"d693645e-cf1d-11e9-82b4-0242ac13000a\":{\"diff\":null,\"categories\":{\"cbd04199-abe8-41e5-a43f-5cffe086747e\":{\"diff\":null,\"tournaments\":{\"cdfae52d-8bbe-4b7a-8f92-0181d9906f6"
+  },
+  {
+    "len": 2228,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198930],\"sports\":{\"d69250c8-cf1d-11e9-b1d7-0242ac13000a\":{\"diff\":null,\"categories\":{\"69980a59-2ef2-4a6b-8fe4-b63a7cc66294\":{\"diff\":null,\"tournaments\":{\"5eebc74a-5b0a-473f-8028-120c2a4a547"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198931],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183083824}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198932],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183083941}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198933],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183084044}}}"
+  },
+  {
+    "len": 643,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198934],\"sports\":{\"d6929204-cf1d-11e9-aed5-0242ac13000a\":{\"diff\":null,\"categories\":{\"059a2136-9070-4039-86f9-799e467c0be0\":{\"diff\":null,\"tournaments\":{\"065dc7c0-87be-11ef-9b6c-01f2bd03a64"
+  },
+  {
+    "len": 1733,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198935],\"sports\":{\"d69250c8-cf1d-11e9-b1d7-0242ac13000a\":{\"diff\":null,\"categories\":{\"69980a59-2ef2-4a6b-8fe4-b63a7cc66294\":{\"diff\":null,\"tournaments\":{\"5eebc74a-5b0a-473f-8028-120c2a4a547"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198936],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183084631}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198937],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183084917}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198938],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183085025}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198939],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183085124}}}"
+  },
+  {
+    "len": 643,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198940],\"sports\":{\"d6935a54-cf1d-11e9-978e-0242ac13000a\":{\"diff\":null,\"categories\":{\"bfd243b0-b299-11ea-abf9-2b72b9f37c43\":{\"diff\":null,\"tournaments\":{\"c7a967d0-b299-11ea-abf9-2b72b9f37c4"
+  },
+  {
+    "len": 2810,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198941],\"sports\":{\"d693645e-cf1d-11e9-82b4-0242ac13000a\":{\"diff\":null,\"categories\":{\"70040ec8-398d-4ac9-9c3c-fdc3401e8b48\":{\"diff\":null,\"tournaments\":{\"5ed1517b-91f6-49ad-b100-43526d7c2e4"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198942],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183085609}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198943],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183085781}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198944],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183085895}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198945],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183086002}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198946],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183086108}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198947],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183086213}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198948],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183086350}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198949],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183086467}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198950],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183086570}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198951],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183086733}}}"
+  },
+  {
+    "len": 68,
+    "preview": "{\"type\":\"heartbeat\",\"uri\":\"heartbeat\",\"payload\":{\"t\":1773183086805}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198952],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183086862}}}"
+  },
+  {
+    "len": 1064,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198953],\"sports\":{\"fb6d3b06-0c0d-4a9e-b612-2c41bf08807f\":{\"diff\":null,\"categories\":{\"49e8fb70-e873-11ea-9b31-f1a88b681bff\":{\"diff\":null,\"tournaments\":{\"d28753a0-2a92-11ee-92fa-016d04a28ff"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198954],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183087871}}}"
+  },
+  {
+    "len": 1161,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198955],\"sports\":{\"d6934640-cf1d-11e9-864b-0242ac13000a\":{\"diff\":null,\"categories\":{\"3e069b7a-4d04-45b0-9d36-ac32fbb592d2\":{\"diff\":null,\"tournaments\":{\"a58a3530-23f5-11eb-80c4-73efec2d1b9"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198956],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183088071}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198957],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183088174}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198958],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183088298}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198959],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183088396}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198960],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183088526}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198961],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183088734}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198962],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183088851}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198963],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183088950}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198964],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183089145}}}"
+  },
+  {
+    "len": 644,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198965],\"sports\":{\"d693645e-cf1d-11e9-82b4-0242ac13000a\":{\"diff\":null,\"categories\":{\"3cfb2d60-98d6-4806-a2c0-ae4b844bc5ff\":{\"diff\":null,\"tournaments\":{\"a6a73d40-2420-4812-9a40-c1c705493ac"
+  },
+  {
+    "len": 5330,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198966],\"sports\":{\"d69250c8-cf1d-11e9-b1d7-0242ac13000a\":{\"diff\":null,\"categories\":{\"177e9729-32f0-4462-a547-4d19c48a0393\":{\"diff\":null,\"tournaments\":{\"94108eae-128f-4ef9-b609-a8ad44fba15"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198967],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183089586}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198968],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183089858}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198969],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183089967}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198970],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183090068}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198971],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183090237}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198972],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183090389}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198973],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183090508}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198974],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183090627}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198975],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183090863}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198976],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183090966}}}"
+  },
+  {
+    "len": 223,
+    "preview": "{\"type\":\"event\",\"correlationId\":\"\",\"uri\":\"sumstats.frontserver.events_updates.erisgaming\",\"payload\":{\"versions\":[198977],\"sports\":{},\"trace\":{\"[service frontserver end] before publish to backend ws service\":1773183091065}}}"
+  }
+]

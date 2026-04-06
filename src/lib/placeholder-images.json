@@ -1,0 +1,11 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "auth-background",
+      "description": "Abstract background for authentication pages",
+      "imageUrl": "https://picsum.photos/seed/authbg/1920/1080",
+      "imageHint": "abstract dark"
+    }
+  ]
+}

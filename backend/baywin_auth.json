@@ -1,0 +1,62 @@
+{
+  "cookies": [
+    {
+      "name": "gs_v_GSN-067615-Q",
+      "value": "",
+      "domain": "355baywin.com",
+      "path": "/",
+      "httpOnly": false,
+      "secure": true,
+      "expires": 1807740936.612707
+    },
+    {
+      "name": "_clck",
+      "value": "lxtfyg%5E2%5Eg48%5E0%5E2260",
+      "domain": ".355baywin.com",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "expires": 1804709233
+    },
+    {
+      "name": "gs_u_GSN-067615-Q",
+      "value": "4e47aa458c54751d46806529cc6c0498:3115:5379:1773178969195",
+      "domain": "355baywin.com",
+      "path": "/",
+      "httpOnly": false,
+      "secure": true,
+      "expires": 1807738969.195325
+    },
+    {
+      "name": "sbui/locale",
+      "value": "%22en_US%22",
+      "domain": "355baywin.com",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "expires": 1807740992.754331
+    },
+    {
+      "name": "_clsk",
+      "value": "1t2vt8f%5E1773180994137%5E1%5E1%5Ez.clarity.ms%2Fcollect",
+      "domain": ".355baywin.com",
+      "path": "/",
+      "httpOnly": false,
+      "secure": false,
+      "expires": 1773267394
+    },
+    {
+      "name": "comm100_visitorguid_90005289",
+      "value": "0f940bde-56c3-4cbb-8c18-23c421aa21d8",
+      "domain": "355baywin.com",
+      "path": "/",
+      "httpOnly": false,
+      "secure": true,
+      "expires": 1807740994.240958
+    }
+  ],
+  "localStorage": {},
+  "sessionStorage": {},
+  "url": "https://355baywin.com/en-us/live",
+  "extractedAt": "2026-03-10T22:46:41.825Z"
+}

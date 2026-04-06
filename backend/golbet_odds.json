@@ -1,0 +1,224 @@
+[
+  {
+    "sport": "Soccer",
+    "competition": "UEFA Champions League",
+    "event": "Sporting CP vs Bodo Glimt",
+    "isLive": true,
+    "id": "gb-0",
+    "odds": [
+      1.33,
+      6.16,
+      7.5
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Soccer",
+    "competition": "Türkiye Süper Lig",
+    "event": "Fenerbahçe vs Gaziantep FK",
+    "isLive": true,
+    "id": "gb-1",
+    "odds": [
+      1.09,
+      8.1,
+      17.92
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Soccer",
+    "competition": "UAE Arabian Gulf League",
+    "event": "Al Ittihad Kalba vs Sharjah FC",
+    "isLive": true,
+    "id": "gb-2",
+    "odds": [
+      1.13,
+      6.7,
+      11.2
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Soccer",
+    "competition": "UAE Arabian Gulf League",
+    "event": "Al Wahda FC vs Al Ain FC",
+    "isLive": true,
+    "id": "gb-3",
+    "odds": [
+      3.32,
+      3.46,
+      2.18
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Soccer",
+    "competition": "Mexico Liga TDP",
+    "event": "Heroes Zaci 2 vs Azucareros de Tezonapa",
+    "isLive": true,
+    "id": "gb-4",
+    "odds": [
+      1.3,
+      3.78,
+      8.51
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Soccer",
+    "competition": "Mali Ligue 1",
+    "event": "Onze Createurs vs AS Korofina",
+    "isLive": true,
+    "id": "gb-5",
+    "odds": [
+      10.45,
+      4.1,
+      1.46
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Soccer",
+    "competition": "Botswana Premier League",
+    "event": "Mochudi Centre Chiefs vs Matebele FC",
+    "isLive": true,
+    "id": "gb-6",
+    "odds": [
+      1.9,
+      2.65,
+      5.38
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Soccer",
+    "competition": "South Africa Premier Soccer League",
+    "event": "Mamelodi Sundowns vs Tshakhuma Tsha Madzivhandila FC",
+    "isLive": true,
+    "id": "gb-7",
+    "odds": [
+      1.25,
+      4.43,
+      12.32
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Soccer",
+    "competition": "Colombia Regional League",
+    "event": "Politecnico J.I.C. vs Atletico N II",
+    "isLive": true,
+    "id": "gb-8",
+    "odds": [
+      2.8,
+      2.97,
+      2.91
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Soccer",
+    "competition": "Slovakia Slovensky Pohar",
+    "event": "1. FC Tatran Presov vs FK Kosice",
+    "isLive": true,
+    "id": "gb-9",
+    "odds": [
+      1.48,
+      3.78,
+      7.95
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Soccer",
+    "competition": "Mexico U19 Youth League",
+    "event": "Puebla U19 vs Necaxa U19",
+    "isLive": true,
+    "id": "gb-10",
+    "odds": [
+      1.54,
+      4.1,
+      5.04
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Basketball",
+    "competition": "Czech 1st League",
+    "event": "Basket Jindrichuv Hradec vs USK Prague B",
+    "isLive": true,
+    "id": "gb-11",
+    "odds": [
+      0.98,
+      9.72
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Basketball",
+    "competition": "China CBA Development League",
+    "event": "Suzhou Cats vs Shanghai Fives",
+    "isLive": true,
+    "id": "gb-12",
+    "odds": [
+      2.8,
+      1.46
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Basketball",
+    "competition": "Bulgaria BBL",
+    "event": "Madgreeks vs National Sandanski",
+    "isLive": true,
+    "id": "gb-13",
+    "odds": [
+      3.99,
+      1.29
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  },
+  {
+    "sport": "Soccer",
+    "competition": "Lithuania 1 Lyga",
+    "event": "FK Vilnius BFA vs FA Siauliai B",
+    "isLive": true,
+    "id": "gb-14",
+    "odds": [
+      1.9,
+      2.97,
+      4.26
+    ],
+    "bookmaker": "Golbet",
+    "link": "https://golbet724.com/tr/live",
+    "scrapedAt": "2026-03-17T19:24:50.744Z"
+  }
+]

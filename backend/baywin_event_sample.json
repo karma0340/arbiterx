@@ -1,0 +1,109 @@
+{
+  "diff": {
+    "status": null,
+    "currentScope": null,
+    "startTime": null,
+    "totalOutcomes": 44,
+    "locked": null,
+    "extraInfo": {
+      "eventName": null,
+      "videoUrl": null,
+      "hasStatistics": false,
+      "currentMinute": null,
+      "currentServer": "p2"
+    },
+    "participants": null,
+    "changeType": "UPDATE"
+  },
+  "scopes": {
+    "set--1": {
+      "diff": null,
+      "markets": {},
+      "scores": {
+        "score--p1": {
+          "teamId": null,
+          "type": null,
+          "value": 2,
+          "changeType": "UPDATE"
+        }
+      }
+    },
+    "game--105": {
+      "diff": {
+        "type": null,
+        "number": null,
+        "locked": null,
+        "changeType": "REMOVE"
+      },
+      "markets": {},
+      "scores": {}
+    },
+    "full_event--0": {
+      "diff": null,
+      "markets": {
+        "score_12--nil": {
+          "diff": null,
+          "outcomes": {
+            "outcome::p1": {
+              "coefficient": 6.8,
+              "locked": null,
+              "updatedAt": 1773183337666,
+              "parameters": null,
+              "changeType": "UPDATE"
+            },
+            "outcome::p2": {
+              "coefficient": 1.07,
+              "locked": null,
+              "updatedAt": 1773183337666,
+              "parameters": null,
+              "changeType": "UPDATE"
+            }
+          }
+        },
+        "score_ou--total::2.5": {
+          "diff": null,
+          "outcomes": {
+            "outcome::under": {
+              "coefficient": 1.29,
+              "locked": null,
+              "updatedAt": 1773183337666,
+              "parameters": null,
+              "changeType": "UPDATE"
+            },
+            "outcome::over": {
+              "coefficient": 3.3,
+              "locked": null,
+              "updatedAt": 1773183337666,
+              "parameters": null,
+              "changeType": "UPDATE"
+            }
+          }
+        }
+      },
+      "scores": {}
+    },
+    "game--106": {
+      "diff": {
+        "type": "game",
+        "number": 106,
+        "locked": false,
+        "changeType": "CREATE"
+      },
+      "markets": {},
+      "scores": {
+        "score--p2": {
+          "teamId": "p2",
+          "type": "score",
+          "value": 0,
+          "changeType": "CREATE"
+        },
+        "score--p1": {
+          "teamId": "p1",
+          "type": "score",
+          "value": 0,
+          "changeType": "CREATE"
+        }
+      }
+    }
+  }
+}

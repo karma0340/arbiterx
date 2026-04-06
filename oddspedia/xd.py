@@ -1,0 +1,114 @@
+import nodriver
+import time
+import json
+import asyncio
+from typing import Dict, Any, Optional
+from nodriver_cf_verify import CFVerify
+
+async def fetch_oddspedia_with_cf_verify() -> Optional[Dict[str, Any]]:
+    """
+    Fetch bookmakers data from Oddspedia API using nodriver_cf_verify to bypass Cloudflare.
+    
+    Returns:
+        Dict containing the API response or None if failed
+    """
+    browser = None
+    try:
+        # Start browser
+        browser: nodriver.Browser = await nodriver.start(
+            headless=False,  # Keep visible for debugging
+            browser_args=[
+                '--no-sandbox',
+                '--disable-blink-features=AutomationControlled',
+                '--disable-web-security',
+                '--disable-features=VizDisplayCompositor',
+                '--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            ]
+        )
+        
+        # Navigate to the API endpoint
+        browser_tab: nodriver.Tab = await browser.get("https://oddspedia.com/api/v1/getBookmakers?geoCode=&geoState=&language=en")
+        
+        print("Navigating to API endpoint...")
+        
+        # Start timing
+        start: float = time.perf_counter()
+        
+        # Initialize CFVerify
+        cf_verify: CFVerify = CFVerify(_browser_tab=browser_tab, _debug=True)
+        
+        # Attempt to verify Cloudflare
+        print("Starting Cloudflare verification...")
+        success: bool = await cf_verify.verify(
+            _max_retries=15, 
+            _interval_between_retries=1, 
+            _reload_page_after_n_retries=0
+        )
+        
+        duration: float = (time.perf_counter() - start)
+        
+        if not success:
+            print(f"Failed to verify Cloudflare. Elapsed time: {duration:.2f} seconds.")
+            return None
+        
+        print(f"Cloudflare was successfully verified in {duration:.2f} seconds.")
+        
+        # Wait a bit more for the page to fully load
+        await asyncio.sleep(3)
+        
+        # Get the page content
+        content = await browser_tab.evaluate("document.body.innerText")
+        
+        # Try to parse as JSON
+        try:
+            json_data = json.loads(content)
+            print("Successfully fetched and parsed JSON data")
+            return json_data
+        except json.JSONDecodeError:
+            print("Response is not valid JSON, checking page content...")
+            print(f"Content preview: {content[:300]}...")
+            
+            # Check if it's an HTML page instead
+            html_content = await browser_tab.evaluate("document.documentElement.outerHTML")
+            if "<html" in html_content.lower():
+                print("Received HTML page instead of JSON API response")
+                print("This might indicate the API endpoint requires authentication or has changed")
+            
+            return None
+            
+    except Exception as e:
+        print(f"Error occurred: {str(e)}")
+        return None
+    
+    finally:
+        if browser:
+            try:
+                browser.stop()  # Remove await
+                print("Browser stopped successfully")
+            except Exception as cleanup_error:
+                print(f"Error during browser cleanup: {cleanup_error}")
+
+async def main() -> None:
+    """Main function to run the API fetch operation."""
+    print("Starting Oddspedia API fetch with CF Verify...")
+    print("=" * 60)
+    
+    result = await fetch_oddspedia_with_cf_verify()
+    
+    if result:
+        print("\n" + "="*50)
+        print("API Response:")
+        print("="*50)
+        print(json.dumps(result, indent=2))
+        
+        # Save to file
+        output_file = '/c:/Users/mohil/OneDrive/Desktop/workspace/oddspedia/bookmakers_response.json'
+        with open(output_file, 'w', encoding='utf-8') as f:
+            json.dump(result, f, indent=2, ensure_ascii=False)
+        print(f"\nResponse saved to '{output_file}'")
+    else:
+        print("Failed to fetch data from the API")
+
+if __name__ == "__main__":
+    # Use nodriver's event loop
+    nodriver.loop().run_until_complete(future=main())
